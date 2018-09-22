@@ -5,5 +5,4 @@ export const firebaseconfig={
     projectId: "sigin-a17a8",
     storageBucket: "sigin-a17a8.appspot.com",
     messagingSenderId: "222290125974"
-
 }
